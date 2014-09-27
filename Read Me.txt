@@ -1,0 +1,3 @@
+copy file to yourlocation
+put path system to file 
+ctrl+r  : tsc
